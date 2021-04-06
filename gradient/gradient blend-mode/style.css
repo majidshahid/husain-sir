@@ -1,0 +1,19 @@
+ 
+                 /* image and color */
+ /* .one{
+    width: 100vw;
+    height: 100vh;
+background-image: url(sven-scheuermeier-uABaIb8XUGI-unsplash.jpg),linear-gradient(red,blue);
+background-size: cover;
+background-blend-mode: multiply;
+} */   
+
+
+          /* two image  */
+.one{
+    width: 100vw;
+    height: 100vh;
+background-image: url(img/sven-scheuermeier-uABaIb8XUGI-unsplash.jpg),url(img/silas-baisch-K785Da4A_JA-unsplash.jpg);
+background-size: cover;
+background-blend-mode: multiply;
+}

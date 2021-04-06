@@ -1,0 +1,52 @@
+body{
+    background-image: url("../img/img.jpg");
+    background-size: cover;
+}
+/* linearGradient  */
+/* .main{
+    text-align: center;
+    width: 500px;
+    height:300px;
+    margin: 10px auto; 
+    border: 2px solid black; 
+   background-image: linear-gradient(red,yellow);
+   background-image: linear-gradient(to top ,red,yellow);
+   background-image: linear-gradient(to right ,red,yellow);
+   background-image:linear-gradient(to left,red,rgb(250, 235, 20))
+     background-image:linear-gradient(to bottom right,red,rgb(250, 235, 20))
+     background-image:linear-gradient(to bottom left,red,rgb(250, 235, 20))
+     background-image: linear-gradient(red,green,yellow,black,blue);   
+     background-image: linear-gradient(red 50%,orange ,yellow );
+                        /* opacity color */
+     /* background-image: linear-gradient(rgba(255,0,0,1),rgba(0,255,100,0)); 
+      background-image: repeating-linear-gradient(rgb(253, 44, 44) 10%, rgb(80, 80, 80) 10%)                */
+/* } */ 
+/* radialGradient  */
+/* .main{
+    text-align: center;
+    width: 500px;
+    height:300px;
+    margin: 10px auto;
+    border: 2px solid black;
+    background-image: radial-gradient(yellow,red);
+    background-image: radial-gradient(circle,yellow,red);
+    background-image: radial-gradient( circle at top,yellow,red);
+    background-image: radial-gradient( circle at bottom,yellow,red);
+        background-image: radial-gradient( circle at 20% 30%,yellow,red);
+     background-image: radial-gradient(circle at top,red,transparent),radial-gradient(circle at bottom,yellow,transparent)
+
+} */
+/* conic geadient */
+
+.main{
+  /* background-color: chartreuse; */
+  width: 400px;
+  height: 400px;
+  border: 2px solid black;
+  border-radius: 50%;
+  /* background-image:conic-gradient(red,rgb(255, 255, 1),green); */
+  /* background-image: conic-gradient(from 45deg,red,blue); */
+   /* background-image:conic-gradient(red,rgb(255, 255, 1),green,red); */
+    /* background-image:conic-gradient(red 90deg,rgb(255, 255, 1),green); */
+     background-image:repeating-conic-gradient(red 10deg, yellow 20deg);
+}

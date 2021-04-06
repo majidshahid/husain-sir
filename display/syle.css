@@ -1,0 +1,17 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+h1{
+    color: rgb(46, 26, 26);
+}
+p{
+    background-color: rgb(233, 237, 25);
+}
+span{
+    /* display: block; */
+    background-color: chocolate;
+    /* display: inline-block; */
+    display: initial;
+}

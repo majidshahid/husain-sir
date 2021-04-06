@@ -1,0 +1,29 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+.one img{
+    width: 100%;
+    height: 300px;
+}
+.nav ul {
+    display: flex;
+    justify-content: space-around;
+    background-color: aqua;
+}
+.nav ul li {
+    list-style: none;
+}
+.nav {
+    position: sticky;
+    top: -200px;
+   
+   
+}
+.two {
+    width: 100px;
+    height: auto;
+}
+.one{
+ width: 100%;
+}

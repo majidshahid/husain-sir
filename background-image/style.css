@@ -1,0 +1,30 @@
+/* body{
+    background-image: url("img/img.jpg"),url('img/img2.jpg');
+    background-size:500px 400px;
+    background-repeat: no-repeat,no-repeat;
+    background-position: 0px 0px,510px 0px;
+} */
+body{
+    background-image: url("img/img.jpg");
+    background-size:cover ;
+    background-repeat: no-repeat;
+   
+}
+/* #one{
+    background-image: url('img/img2.jpg');
+    width: 300px;
+    height: 140px;
+   margin: 500px auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+
+#one{
+    background-image: url('img/img2.jpg');
+    width: 300px;
+    height: 140px;
+   margin: 500px auto;
+   background-size: contain;
+background-repeat: round;
+    
+}

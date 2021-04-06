@@ -1,0 +1,18 @@
+.ione{
+    width: 20%;
+    float: left;
+}
+.ione p{
+    display: inline;
+text-align: center;
+
+   
+
+}
+.to{
+    width: 18%;
+    float: left;
+    margin: 10px auto;
+    border: 2px solid red;
+    
+}
